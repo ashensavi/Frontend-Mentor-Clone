@@ -46,6 +46,16 @@
 }
 .nav-right{
     flex:1;
+    
+}
+
+.nav-right ul{
+    list-style: none;
+   
+}
+.nav-right li{
+    display: inline-block;
+    margin-right: 20px;
 }
 
 
